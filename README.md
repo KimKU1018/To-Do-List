@@ -8,6 +8,6 @@ ToDo-List 앱입니다.
 - 할 일들을 데이터 저장소에 저장을 하여 앱을 재실행하여도 데이터가 유지
 
 # 활용 기술
-- UITablrView
+- UITableView
 - UIAlertController
 - UserDefaults
